@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/icon?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&subset=cyrillic');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+
+span.brown{
+    color: #b64a03;
+}
+span.red{
+    color : red;
+}
+span.ts{
+    color : #00afb2;
+}
+span.string, span.green{
+    color: green;
+}
+span.tag, span.purple{
+    color : #90148d;
+}
+span.expression{
+    color : #bf151e;
+}
+span.attr,.blue{
+    color : #0810c5;
+}
+span.comment,.grey{
+    color : #aaa;
+}
+span.javascript{
+    color : #8d5802;
+}
