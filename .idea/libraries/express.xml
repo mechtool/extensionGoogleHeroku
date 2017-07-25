@@ -2,14 +2,8 @@
   <library name="express" type="javaScript">
     <properties>
       <option name="frameworkName" value="node_modules" />
-      <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/node_modules/express" />
-      </sourceFilesUrls>
     </properties>
-    <CLASSES>
-      <root url="file://$PROJECT_DIR$/node_modules/express" />
-      <root url="file://$PROJECT_DIR$/node_modules/express" />
-    </CLASSES>
+    <CLASSES />
     <JAVADOC />
     <SOURCES />
   </library>
